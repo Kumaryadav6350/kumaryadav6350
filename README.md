@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 ![logo](https://github.com/Kumaryadav6350/kumaryadav6350/blob/main/coding%20baba.gif)
 github profile markdown generator logo
 GitHub Profile README Generator
