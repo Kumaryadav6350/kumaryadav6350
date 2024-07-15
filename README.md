@@ -1,5 +1,5 @@
 ## Hi there 👋
-![logo]("C:\Users\ck851\Downloads\Screenshot_2024-07-14_225236-removebg-preview.png")
+![logo](C:\Users\ck851\Downloads\Screenshot_2024-07-14_225236-removebg-preview.png)
 **Kumaryadav6350/kumaryadav6350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
